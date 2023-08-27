@@ -1,2 +1,3 @@
 # demo-account
-this is my git reposiotry
+This is first git and github tutorial
+Author:- Shaktiman
